@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the plugin would do.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expect to happen.
 
 You can add other context, mockups or anything else here.
 
