@@ -12,7 +12,7 @@ It can pretty much be anything you want. To quote aetheryx, "plugins are like bo
 ### Working on a plugin
 If you want to work on a plugin, make sure to let us know by replying to the issue so we can assign you and mark it as ``work in progress``. We don't want to waste peoples time by having different people working on the same feature, and we want to keep the Powercord plugin ecosystem as clean as possible, which includes avoiding duplicates.
 
-Please, if you're going to take a request, make sure you can do it well. We want the plugins to be high quality. this isnt your place to learn how to code. If you accepted a request and don't feel you can complete it while keeping it high quality, its okay to comment and say so! Just let us know so someone else can do it.
+Please, if you're going to take a request, make sure you can do it well. We want the plugins to be high quality, this isnt your place to learn how to code. If you accepted a request and don't feel you can complete it while keeping it high quality, its okay to comment and say so! Just let us know so someone else can do it.
 
 ### My plugin is done!
 Reply with a link to the GitHub repo of the plugin. We'll then mark the request as completed and <!-- allocate a repository in the community org for you, and once it's live there --> close the issue. <!-- We'll also make it show up in the plugin manager, so everyone will be able to install it! Sweet isn't it? --> We recommend putting it in the #plugin-links channel in our [Discord server](https://discord.gg/4DwWFRP) for visibility, as the plugin manager/installer isn't done yet.
