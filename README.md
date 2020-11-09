@@ -9,16 +9,22 @@ Remember that suggested plugins must follow [Powercord's Plugin Guildelines](htt
 ### Submitting an idea
 It can pretty much be anything you want. To quote aetheryx, "plugins are like boobs; small, big, it doesn't matter, we love them all". We'll then do a quick review of the plugin and mark it as up for grabs; as long as it's not a duplicated request, the idea already exists, or goes against the [Powercord's Plugin Guildelines](https://github.com/powercord-community/guidelines).
 
+**Make sure when submitting your idea to follow the provided template**. Invalid requests will be rejected automatically, and repeated offenders may see their ability to create suggestions restricted.
+
 ### Working on a plugin
 If you want to work on a plugin, make sure to let us know by replying to the issue so we can assign you and mark it as ``work in progress``. We don't want to waste peoples time by having different people working on the same feature, and we want to keep the Powercord plugin ecosystem as clean as possible, which includes avoiding duplicates.
 
-Please, if you're going to take a request, make sure you can do it well. We want the plugins to be high quality, this isnt your place to learn how to code. If you accepted a request and don't feel you can complete it while keeping it high quality, its okay to comment and say so! Just let us know so someone else can do it.
+If you're going to take a request, make sure you can do it well. We want the plugins to be quality:tm:, and while you can definitely learn step by step JavaScript and Powercord's API by making plugins, don't start too big. Going too big can be frustrating, and ends up in poor code that could have been better. There's no shame in making a plugin that's a simple command!
+
+After accepting a request, if you find out you may not be experienced enough to get it right, there's nothing wrong about it. Just let us know on the GitHub thread, so we can release the suggestion for someone else to work on it.
 
 ### My plugin is done!
 Reply with a link to the GitHub repo of the plugin. We'll then mark the request as completed and <!-- allocate a repository in the community org for you, and once it's live there --> close the issue. <!-- We'll also make it show up in the plugin manager, so everyone will be able to install it! Sweet isn't it? --> We recommend putting it in the #plugin-links channel in our [Discord server](https://discord.gg/aUxeqmM) for visibility, as the plugin manager/installer isn't done yet.
 
 ### I really want *x* plugin but I can't code
 If you find a plugin that you would like to see, be sure to add a :+1: (+1) to it! This way plugin developers will be able to see what plugins are desired the most. Please do not bother the devs to make a plugin, they don't have all day everyday to make plugins for us so be patient!
+
+Please avoid "bumping" issues by posting "+1", or asking if someone's willing to work on it. It can be frustrating to wait for an issue to complete, but it is even more frustrating to send junk emails to everyone (and make Staff' triage work harder!).
 
 ## About backends
 
