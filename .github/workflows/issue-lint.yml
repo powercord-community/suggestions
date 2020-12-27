@@ -1,0 +1,14 @@
+name: issue-lint
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  template:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+    - uses: powercord-community/suggestions/lint-action@master
+      with:
+        gh-token: ${{ secrets.GITHUB_TOKEN }}

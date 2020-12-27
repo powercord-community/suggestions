@@ -1,0 +1,15 @@
+{
+  "name": "lint-action",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Cynthia <cynthia@cynthia.dev>",
+  "scripts": {
+    "build": "microbundle -i index.js -f cjs --no-compress --no-sourcemap --external none --target node -o dist.js"
+  },
+  "devDependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0",
+    "microbundle": "^0.13.0"
+  }
+}

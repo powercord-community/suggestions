@@ -1,0 +1,10 @@
+name: 'Issue Lint'
+description: 'Ensures issues comply with the template'
+author: 'Cynthia <cynthia@cynthia.dev>'
+inputs:
+  gh-token:
+    description: 'GitHub token'
+    required: true
+runs:
+  using: 'node12'
+  main: 'dist.js'
