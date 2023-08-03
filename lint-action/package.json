@@ -8,7 +8,7 @@
     "build": "microbundle -i index.js -f cjs --no-compress --no-sourcemap --external none --target node -o dist.js"
   },
   "devDependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "microbundle": "^0.13.0"
   }
